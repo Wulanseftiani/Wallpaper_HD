@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallpaper HD</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="category">Category</string>
+    <string name="favorite">Favorite</string>
+
+</resources>

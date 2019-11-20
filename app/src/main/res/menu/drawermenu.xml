@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/wl" android:title="Wallpaper" android:icon="@drawable/ic_wall"/>
+    <item android:id="@+id/ca" android:title="Category" android:icon="@drawable/ic_cate"/>
+    <item android:id="@+id/in" android:title="Info" android:icon="@drawable/ic_favorite"/>
+
+</menu>

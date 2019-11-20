@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/dark"
+    tools:context=".WallpaperFragment">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/wal1"
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:background="@drawable/love"
+
+
+                    />
+
+                <Button
+                    android:id="@+id/wal2"
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:background="@drawable/moon"
+
+
+                    />
+
+                <Button
+                    android:id="@+id/wal3"
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:background="@drawable/patrik"
+
+
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/wal4"
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:background="@drawable/abstrak1"
+                    />
+
+                <Button
+                    android:id="@+id/wal5"
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:background="@drawable/alam2"
+                    />
+
+                <Button
+                    android:id="@+id/wal6"
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:background="@drawable/alam8"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/samsung"
+
+                    />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/pubg"
+
+                    />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/abstrak7"
+
+
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/cutegirl"
+
+                    />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/anjing"
+
+                    />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/raksha_2"
+
+
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/alam4"
+
+                    />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/play"
+
+                    />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_margin="3dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/color"
+
+
+                    />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
